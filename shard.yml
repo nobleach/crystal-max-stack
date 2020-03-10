@@ -1,0 +1,13 @@
+name: crystal_max_stack
+version: 0.1.0
+
+authors:
+  - Jim Wharton <jamesawharton@gmail.com>
+
+targets:
+  crystal_max_stack:
+    main: src/crystal_max_stack.cr
+
+crystal: 0.33.0
+
+license: MIT
